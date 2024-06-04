@@ -20,4 +20,13 @@ Messages by Google fork by PJalv: [https://github.com/PJalv/messages-web/tree/fl
 - **Discord Integration**: Posts the tweets onto a Discord webhook using the `discord.js` library.
 
 
-![alt text](assets/image-tweet.png)
+## Images
+
+### Tweets from Chipotle Account
+<span>
+  <img src="assets/image-tweet.png" alt="Tweet with Code Embedded in an Image" width="400">
+  <img src="assets/tweet.png" alt="Tweet with Code" width="600">
+</span>
+
+### Testimonial via Discord
+<img src="assets/testimonial.png" alt="Testimonial via Discord" width="400">
